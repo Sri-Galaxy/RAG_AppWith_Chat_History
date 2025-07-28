@@ -9,3 +9,6 @@ langchain_community
 ipykernel
 sentence-transformers
 langchain_core
+streamlit
+pdfminer.six
+python-docx
